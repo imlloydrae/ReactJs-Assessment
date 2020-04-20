@@ -1,0 +1,68 @@
+.ant-layout {
+  /* background: rgb(2,0,36) !important; */
+  background: linear-gradient(90deg, rgba(30,17,73,1) 0%, rgba(218,68,97,1) 100%) !important;
+}
+
+.row {
+  margin: 20px 20px !important;
+  padding-top: 100px;
+  padding-bottom: 100px; 
+}
+
+.title-login {
+  padding-right: 150px !important;
+}
+.dj-divider {
+  color: #d9d9d9  !important;
+  letter-spacing: 10px;
+
+}
+.event-title {
+  letter-spacing: 25px;
+  color: whitesmoke;
+  font-size: 25px;
+  font-weight: bolder;
+}
+
+.left-content {
+  color: rgb(173, 163, 163);
+}
+
+.trans-btn {
+  background: rgba(255, 255, 255, 0.1);
+  font-size: xx-small;
+  font-weight: bolder;
+  color: white;
+  height: 50px;
+  width: 150px;
+}
+
+.login-content {
+  background: rgba(255, 255, 255, 0.3) !important;
+  padding: 40px !important;
+}
+
+.site-card-wrapper {
+  background: linear-gradient(90deg, rgba(30,17,73,1) 0%, rgba(218,68,97,1) 100%) !important;
+  padding: 30px;
+}
+
+.trans-btn-card {
+  background: rgba(70, 69, 69, 0.1);
+  font-size: xx-small;
+  font-weight: bolder;
+  color: rgb(97, 96, 96);
+  height: 50px;
+  width: 150px;
+}
+
+.card-title {
+  color: gray !important;
+  letter-spacing: 5px;
+  font-weight: bolder;
+}
+
+/* .left-content {
+  background: rgb;
+  padding: 20px;
+} */
